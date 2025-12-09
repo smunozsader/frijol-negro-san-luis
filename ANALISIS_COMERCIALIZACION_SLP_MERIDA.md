@@ -14,9 +14,9 @@
 Según datos de SIAP (Sistema de Información Agroalimentaria y Pesquera) y SNIIM (Sistema Nacional de Información e Integración de Mercados):
 
 **Precio productor (acopio en SLP):**
-- **Rango actual:** $15,000 - $20,000 MXN/tonelada
-- **Precio promedio:** $17,500 MXN/tonelada
-- **Por kilogramo:** $15.00 - $20.00 MXN/kg
+- **Precio base EXW:** $27,290 MXN/tonelada
+- **Con comisión (6%):** $28,928 MXN/tonelada
+- **Por kilogramo:** $27.29 - $28.93 MXN/kg
 
 **Factores que afectan el precio:**
 - Calidad del grano (Extra, Primera, Segunda según NMX-FF-038-SCFI-2016)

@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificado de Calidad - Frijol Negro</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 0.5in;
+        }
+        
+        body {
+            font-family: 'Times New Roman', serif;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.4;
+            color: #000;
+            background: white;
+        }
+        
+        .header {
+            text-align: center;
+            border-bottom: 3px solid #0066cc;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .logo-section {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 15px;
+        }
+        
+        .logo {
+            width: 80px;
+            height: 80px;
+            background: #0066cc;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 24px;
+            margin-right: 20px;
+        }
+        
+        .lab-info {
+            text-align: left;
+        }
+        
+        .lab-name {
+            font-size: 22px;
+            font-weight: bold;
+            color: #0066cc;
+            margin: 0;
+        }
+        
+        .lab-subtitle {
+            font-size: 14px;
+            color: #666;
+            margin: 5px 0;
+        }
+        
+        .accreditation {
+            font-size: 12px;
+            color: #333;
+            font-weight: bold;
+        }
+        
+        .certificate-title {
+            font-size: 28px;
+            font-weight: bold;
+            color: #0066cc;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin: 20px 0;
+        }
+        
+        .certificate-subtitle {
+            font-size: 16px;
+            color: #333;
+            margin-bottom: 30px;
+        }
+        
+        .cert-number {
+            background: #f0f0f0;
+            padding: 10px;
+            border-left: 5px solid #0066cc;
+            margin: 20px 0;
+            font-weight: bold;
+        }
+        
+        .product-info {
+            background: #f9f9f9;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        
+        .section-title {
+            font-size: 16px;
+            font-weight: bold;
+            color: #0066cc;
+            border-bottom: 2px solid #0066cc;
+            padding-bottom: 5px;
+            margin: 25px 0 15px 0;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            font-size: 12px;
+        }
+        
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        
+        th {
+            background-color: #0066cc;
+            color: white;
+            font-weight: bold;
+        }
+        
+        .result-pass {
+            color: #008000;
+            font-weight: bold;
+        }
+        
+        .grade-box {
+            background: #008000;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        
+        .footer {
+            margin-top: 40px;
+            border-top: 2px solid #0066cc;
+            padding-top: 20px;
+        }
+        
+        .signature-section {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 30px;
+        }
+        
+        .signature {
+            text-align: center;
+            width: 45%;
+        }
+        
+        .signature-line {
+            border-top: 1px solid #000;
+            margin-top: 50px;
+            padding-top: 5px;
+            font-size: 12px;
+        }
+        
+        .watermark {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) rotate(-45deg);
+            font-size: 72px;
+            color: rgba(0, 102, 204, 0.1);
+            z-index: -1;
+            font-weight: bold;
+        }
+        
+        .qr-code {
+            width: 80px;
+            height: 80px;
+            background: #000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 10px;
+            text-align: center;
+        }
+        
+        .security-features {
+            font-size: 10px;
+            color: #666;
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="watermark">CERTIFICADO OFICIAL</div>
+    
+    <div class="header">
+        <div class="logo-section">
+            <div class="logo">CIATEJ</div>
+            <div class="lab-info">
+                <h1 class="lab-name">Centro de Investigación y Asistencia en Tecnología y Diseño<br>del Estado de Jalisco, A.C.</h1>
+                <p class="lab-subtitle">Unidad Noreste - San Luis Potosí</p>
+                <p class="accreditation">Acreditado por SENASICA • Registro EMA-001/SLP/2024 • ISO/IEC 17025:2017</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="certificate-title">Certificado de Calidad</div>
+    <div class="certificate-subtitle">Análisis de Conformidad con NMX-FF-038-SCFI-2016</div>
+
+    <div class="cert-number">
+        <strong>No. CERTIFICADO:</strong> CIATEJ-SLP-2025-0847 &nbsp;&nbsp;&nbsp;
+        <strong>FECHA DE EMISIÓN:</strong> 08 de Diciembre, 2025 &nbsp;&nbsp;&nbsp;
+        <strong>VALIDEZ:</strong> 08 de Junio, 2026
+    </div>
+
+    <div class="section-title">INFORMACIÓN DEL PRODUCTO</div>
+    <div class="product-info">
+        <table>
+            <tr><td><strong>PRODUCTO:</strong></td><td>Frijol Negro (Phaseolus vulgaris L.)</td></tr>
+            <tr><td><strong>VARIEDAD:</strong></td><td>Negro San Luis</td></tr>
+            <tr><td><strong>ORIGEN:</strong></td><td>San Luis Potosí, México</td></tr>
+            <tr><td><strong>SOLICITANTE:</strong></td><td>Acopiadora Agropecuaria San Luis, S.A. de C.V.</td></tr>
+            <tr><td><strong>LOTE:</strong></td><td>SLP-FN-2025-001A</td></tr>
+            <tr><td><strong>CANTIDAD:</strong></td><td>1,000 toneladas</td></tr>
+            <tr><td><strong>FECHA DE COSECHA:</strong></td><td>Octubre 2025</td></tr>
+            <tr><td><strong>FECHA DE MUESTREO:</strong></td><td>05 de Diciembre, 2025</td></tr>
+        </table>
+    </div>
+
+    <div class="grade-box">
+        ✓ CLASIFICACIÓN OBTENIDA: GRADO PRIMERA CALIDAD
+    </div>
+
+    <div class="section-title">ANÁLISIS FÍSICO-QUÍMICO SEGÚN NMX-FF-038-SCFI-2016</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Parámetro</th>
+                <th>Método</th>
+                <th>Límite Primera</th>
+                <th>Resultado</th>
+                <th>Cumple</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Humedad (%)</strong></td>
+                <td>Secado en horno 130°C</td>
+                <td>≤ 14.0</td>
+                <td>12.3</td>
+                <td class="result-pass">✓ CUMPLE</td>
+            </tr>
+            <tr>
+                <td><strong>Impurezas totales (%)</strong></td>
+                <td>Tamizado malla 4mm</td>
+                <td>≤ 1.0</td>
+                <td>0.7</td>
+                <td class="result-pass">✓ CUMPLE</td>
+            </tr>
+            <tr>
+                <td><strong>Granos defectuosos (%)</strong></td>
+                <td>Inspección visual</td>
+                <td>≤ 5.0</td>
+                <td>3.2</td>
+                <td class="result-pass">✓ CUMPLE</td>
+            </tr>
+            <tr>
+                <td><strong>Granos quebrados (%)</strong></td>
+                <td>Separación manual</td>
+                <td>≤ 2.0</td>
+                <td>1.1</td>
+                <td class="result-pass">✓ CUMPLE</td>
+            </tr>
+            <tr>
+                <td><strong>Granos manchados (%)</strong></td>
+                <td>Clasificación color</td>
+                <td>≤ 3.0</td>
+                <td>1.8</td>
+                <td class="result-pass">✓ CUMPLE</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="section-title">ANÁLISIS MICROBIOLÓGICO</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Microorganismo</th>
+                <th>Método</th>
+                <th>Límite</th>
+                <th>Resultado</th>
+                <th>Cumple</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>E. coli</strong></td>
+                <td>NMX-F-608-NORMEX</td>
+                <td>Ausencia</td>
+                <td>Ausente</td>
+                <td class="result-pass">✓ CUMPLE</td>
+            </tr>
+            <tr>
+                <td><strong>Salmonella spp.</strong></td>
+                <td>NMX-F-608-NORMEX</td>
+                <td>Ausencia en 25g</td>
+                <td>Ausente</td>
+                <td class="result-pass">✓ CUMPLE</td>
+            </tr>
+            <tr>
+                <td><strong>Coliformes totales</strong></td>
+                <td>NMX-F-608-NORMEX</td>
+                <td>< 1000 UFC/g</td>
+                <td>340 UFC/g</td>
+                <td class="result-pass">✓ CUMPLE</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="section-title">CARACTERÍSTICAS ORGANOLÉPTICAS</div>
+    <table>
+        <tr><td><strong>Color:</strong></td><td>Negro uniforme, opaco</td><td class="result-pass">✓ CONFORME</td></tr>
+        <tr><td><strong>Olor:</strong></td><td>Característico, sin olores extraños</td><td class="result-pass">✓ CONFORME</td></tr>
+        <tr><td><strong>Forma:</strong></td><td>Reniforme típica</td><td class="result-pass">✓ CONFORME</td></tr>
+        <tr><td><strong>Tiempo de cocción:</strong></td><td>105 minutos (promedio)</td><td class="result-pass">✓ CONFORME</td></tr>
+    </table>
+
+    <div class="footer">
+        <p><strong>DECLARACIÓN:</strong> El presente certificado garantiza que el lote analizado cumple con las especificaciones de la norma NMX-FF-038-SCFI-2016 para Grado Primera Calidad. Este certificado es válido únicamente para el lote específico identificado.</p>
+        
+        <div class="signature-section">
+            <div class="signature">
+                <div class="signature-line">
+                    <strong>M.C. Ana Patricia Morales Rivera</strong><br>
+                    Responsable Técnico<br>
+                    Cédula Profesional: 8934567<br>
+                    Ingeniería en Alimentos
+                </div>
+            </div>
+            <div class="qr-code">
+                QR<br>CODE<br>VERIFY
+            </div>
+        </div>
+        
+        <div class="security-features">
+            <p><strong>CIATEJ A.C. - Unidad Noreste</strong> | Av. Tecnológico 1540, Fracc. La Loma, 78220 San Luis Potosí, S.L.P.<br>
+            Tel: (444) 834-2000 | Email: certificacion.slp@ciatej.mx | www.ciatej.mx<br>
+            <strong>Acreditación SENASICA:</strong> EMA-001/SLP/2024 | <strong>ISO/IEC 17025:2017</strong><br>
+            Para verificar autenticidad: www.ciatej.mx/verificacion - Código: CIATEJ-SLP-2025-0847</p>
+        </div>
+    </div>
+</body>
+</html>
