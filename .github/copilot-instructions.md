@@ -9,6 +9,13 @@ This project focuses on the commercialization of black beans (Frijol Negro) from
 
 ## Key Context & Domain Knowledge
 
+### Current Commercial Offering
+- **Product**: Frijol Negro San Luis 22 (Black beans variety 22)
+- **Volume**: 1,000 toneladas (fixed offering)
+- **Suppliers**: Dario y Gabriel (product owners/sellers)
+- **Storage**: Ready for sale in warehouses in San Luis Potosí
+- **Commercial Agent**: Sergio Muñoz de Alba Medrano (Mérida representative)
+
 ### Agricultural Product Focus
 - **Product**: Black beans (Frijol Negro de San Luis)
 - **Origin**: San Luis Potosí, Mexico
@@ -67,6 +74,27 @@ Always validate technical specifications against:
 - Traceability requirements for T-MEC compliance
 
 ## Specialized Terminology
+
+### Mexican Commercial Terms (Required Usage)
+Always use Mexican practical terminology instead of international INCOTERMS:
+- **LAB San Luis Potosí** (instead of EXW): "Tú lo recoges" - Buyer picks up at origin warehouse
+- **Puesto en Almacén Mérida** (instead of DDP): "Nosotros entregamos" - Seller delivers to buyer's warehouse
+- **Términos Comerciales Mexicanos** (instead of INCOTERMS 2020): Mexican commercial terms
+
+### Current Pricing Structure (Subject to Supplier Confirmation)
+**Important**: These prices are based on comprehensive market research analysis and are pending final confirmation from suppliers (Dario y Gabriel).
+
+- **LAB San Luis Potosí**: $28,930 MXN/tonelada
+  - Includes: Product, quality analysis, documentation, loading at origin warehouse
+  - Excludes: Transportation, insurance, unloading at destination
+  
+- **Puesto en Almacén Mérida**: $31,441 MXN/tonelada  
+  - Includes: Product + complete transport + insurance to destination warehouse
+  - Freight component: $2,511/ton (difference between LAB and delivered price)
+
+**Note**: All pricing documentation should include disclaimer that prices are subject to final supplier confirmation, though based on rigorous market analysis.
+
+### Agricultural Terminology
 - **Acopio**: Collection/aggregation of agricultural products
 - **Comercializadores**: Commercial distributors/traders
 - **Hoja técnica/Fact sheet**: Technical specification document

@@ -1,262 +1,415 @@
-# ADDENDUM: INCOTERMS 2020 - DEFINICIÓN PRECISA DE TÉRMINOS COMERCIALES
-## Frijol Negro San Luis Potosí - Responsabilidades y Costos
+# GUÍA DE TÉRMINOS COMERCIALES - VENTA DOMÉSTICA MÉXICO
+## Frijol Negro San Luis Potosí - Opciones de Entrega y Responsabilidades
 
 ---
 
-## ANÁLISIS DE INCOTERMS APLICABLES
+## MODALIDADES DE VENTA (Mercado Nacional)
 
-### EXW (Ex-Works) vs DDP (Delivered Duty Paid)
+### Opción 1: "LAB San Luis Potosí" vs Opción 2: "Puesto en tu Almacén"
 
-#### **DEFINICIÓN SEGÚN INCOTERMS 2020**
+> **Nota técnica:** Estos términos se basan en INCOTERMS 2020 (EXW y DDP respectivamente), pero utilizamos terminología comercial mexicana estándar para mayor claridad.
 
-**EXW (Ex-Works) - "En Fábrica" San Luis Potosí**
+
+---
+
+## DEFINICIONES CLARAS
+
+### **OPCIÓN A: "LAB SAN LUIS POTOSÍ" (Tú lo recoges)**
+**Equivalente técnico:** EXW - Ex Works
+
 ```
-SIGNIFICADO: El vendedor pone la mercancía a disposición del comprador 
-en sus instalaciones (fábrica, almacén, etc.) sin cargarla en el 
-vehículo de recogida ni despacharla para la exportación.
+¿QUÉ SIGNIFICA?
+"Te vendo el frijol puesto en mi bodega de San Luis Potosí. 
+Tú mandas el camión, pagas el flete y te lo llevas."
 
-RESPONSABILIDADES DEL VENDEDOR (NOSOTROS):
-✓ Embalar adecuadamente la mercancía
-✓ Poner mercancía disponible en fecha acordada
-✓ Proporcionar documentación comercial
-✓ Notificar al comprador cuando esté lista
-✓ Facilitar acceso para carga (opcional)
+LO QUE NOSOTROS HACEMOS (Vendedor):
+✓ Empacar el producto en costales de 50 kg
+✓ Tenerlo listo en la fecha acordada
+✓ Darte factura y documentos (certificados, análisis)
+✓ Ayudarte con la supervisión de carga
+✓ Coordinar horarios de carga
 
-RESPONSABILIDADES DEL COMPRADOR (MAYORISTA):
-✓ Contratar transporte desde origen
-✓ Cargar mercancía en vehículo
-✓ Contratar seguros de transporte
-✓ Pagar todos los costos de flete
-✓ Gestionar permisos de transporte
-✓ Asumir riesgos desde almacén origen
+LO QUE TÚ HACES (Comprador):
+✓ Contratar el camión/transporte
+✓ Coordinar la carga con tu transportista
+✓ Pagar el flete SLP → Mérida
+✓ Contratar seguro si lo quieres
+✓ Gestionar la descarga en tu almacén
+✓ Asumir el riesgo desde que sale de nuestra bodega
 ```
 
-**DDP (Delivered Duty Paid) - "Entregado Derechos Pagados"**
+### **OPCIÓN B: "PUESTO EN TU ALMACÉN MÉRIDA" (Nosotros entregamos)**
+**Equivalente técnico:** DDP - Delivered Duty Paid
+
 ```
-SIGNIFICADO: El vendedor entrega la mercancía cuando esta se pone 
-a disposición del comprador, despachada para la importación, en el 
-medio de transporte de llegada, lista para ser descargada en el lugar 
-de destino convenido.
+¿QUÉ SIGNIFICA?
+"Te entrego el frijol hasta tu almacén en Mérida. 
+Tú solo recibes, verificas y descargas. Todo lo demás corre por nuestra cuenta."
 
-RESPONSABILIDADES DEL VENDEDOR (NOSOTROS):
-✓ Embalar y documentar mercancía
-✓ Contratar transporte completo
-✓ Contratar seguros de mercancía
-✓ Pagar todos los costos de flete
-✓ Gestionar permisos y documentos
-✓ Entregar en almacén del comprador
-✓ Asumir riesgos hasta entrega final
+LO QUE NOSOTROS HACEMOS (Vendedor):
+✓ Empacar el producto
+✓ Contratar el camión completo
+✓ Pagar todo el flete SLP → Mérida
+✓ Contratar seguro de mercancía
+✓ Coordinar la entrega en tu almacén
+✓ Darte factura y documentos
+✓ Asumir riesgos hasta que llegue a tu bodega
 
-RESPONSABILIDADES DEL COMPRADOR (MAYORISTA):
-✓ Facilitar acceso para descarga
-✓ Descargar mercancía del vehículo
-✓ Verificar conformidad
-✓ Pagar según términos acordados
+LO QUE TÚ HACES (Comprador):
+✓ Recibir el camión en tu almacén
+✓ Verificar cantidad y calidad
+✓ Descargar la mercancía (con tu gente o montacargas)
+✓ Firmar de recibido
+✓ Pagar según los términos acordados
+```
+
+
+---
+
+## DESGLOSE DE COSTOS POR MODALIDAD
+
+### **OPCIÓN A: LAB SAN LUIS POTOSÍ (Tú lo recoges)**
+
+| Concepto | Quién lo Hace | Costo Estimado | Quién Paga |
+|----------|---------------|----------------|------------|
+| **Producto base** | Nosotros | $28,930/ton | Incluido en precio LAB |
+| **Empaque (costales)** | Nosotros | Incluido | Incluido en precio LAB |
+| **Documentación** | Nosotros | Incluido | Incluido en precio LAB |
+| **Carga al camión** | Comprador | $50/ton | **TÚ PAGAS** |
+| **Flete SLP-Mérida** | Comprador | $2,167/ton | **TÚ PAGAS** |
+| **Seguro de carga** | Comprador | $87/ton | **TÚ PAGAS** (opcional) |
+| **Descarga en destino** | Comprador | $100/ton | **TÚ PAGAS** |
+| **COSTO TOTAL PARA TI** | - | **$31,334/ton** | - |
+
+**Precio que te cotizamos:** $28,930/ton LAB San Luis Potosí  
+**Costo total estimado con flete:** $31,334/ton
+
+### **OPCIÓN B: PUESTO EN TU ALMACÉN MÉRIDA (Nosotros entregamos)**
+
+| Concepto | Quién lo Hace | Costo Estimado | Quién Paga |
+|----------|---------------|----------------|------------|
+| **Producto base** | Nosotros | $28,930/ton | Incluido en precio |
+| **Empaque** | Nosotros | Incluido | Incluido en precio |
+| **Documentación** | Nosotros | Incluido | Incluido en precio |
+| **Carga en origen** | Nosotros | $50/ton | Incluido en precio |
+| **Flete SLP-Mérida** | Nosotros | $2,167/ton | Incluido en precio |
+| **Seguro de carga** | Nosotros | $87/ton | Incluido en precio |
+| **Descarga** | Tú | $100/ton | **TÚ PAGAS** |
+| **Nuestra comisión logística** | Nosotros | $107/ton | Incluido en precio |
+| **PRECIO TOTAL PUESTO** | - | **$31,441/ton** | **PRECIO CERRADO** |
+
+**Precio que te cotizamos:** $31,441/ton puesto en tu almacén Mérida  
+**Solo pagas la descarga:** $100/ton adicional
+
+
+---
+
+## ¿CUÁL TE CONVIENE? - VENTAJAS Y DESVENTAJAS
+
+### **OPCIÓN A: LAB SAN LUIS POTOSÍ - $28,930/tonelada**
+
+#### **Te conviene si:**
+✅ Tienes transportista de confianza con buenas tarifas  
+✅ Manejas volúmenes grandes y negocías fletes directos  
+✅ Prefieres controlar la logística y los tiempos  
+✅ Quieres el precio base más bajo  
+✅ Tienes experiencia coordinando fletes de larga distancia
+
+#### **No te conviene si:**
+❌ No tienes transportista establecido  
+❌ No quieres lidiar con la logística  
+❌ Prefieres certeza en el costo total  
+❌ El flete puede salirte más caro que nuestro precio  
+❌ No tienes tiempo para coordinar camiones y seguros
+
+#### **Costo final estimado:** $31,334/ton (con flete promedio)
+
+---
+
+### **OPCIÓN B: PUESTO EN TU ALMACÉN - $31,441/tonelada**
+
+#### **Te conviene si:**
+✅ Quieres un precio cerrado sin sorpresas  
+✅ No quieres gestionar transportistas  
+✅ Prefieres que nosotros asumamos el riesgo del flete  
+✅ Valoras la simplicidad operativa  
+✅ La diferencia de $107/ton vale la paz mental
+
+#### **No te conviene si:**
+❌ Tienes tarifas de flete mucho mejores que las nuestras  
+❌ Quieres controlar cada detalle de la logística  
+❌ El precio absoluto es tu única prioridad  
+❌ Tienes contratos de flete ya establecidos
+
+#### **Costo final:** $31,441/ton (fijo, sin variables)
+
+
+---
+
+## RECOMENDACIÓN SEGÚN TIPO DE CLIENTE
+
+### **Para Mayoristas Grandes (COMA, Walmart, Soriana)**
+**RECOMENDAMOS: LAB San Luis Potosí + Soporte**
+```
+¿POR QUÉ?
+• Ya tienen departamento de logística establecido
+• Manejan contratos de flete con transportistas confiables
+• Obtienen mejores tarifas por volumen
+• Prefieren control sobre tiempos de entrega
+• El ahorro de $511/ton es significativo en 200+ toneladas
+
+NUESTRO VALOR AGREGADO:
+• Te recomendamos transportistas confiables (si los necesitas)
+• Coordinamos horarios de carga flexibles
+• Te damos seguimiento al embarque
+• Soporte técnico durante todo el proceso
+```
+
+### **Para Distribuidores Medianos/Regionales**
+**RECOMENDAMOS: Puesto en Almacén (Todo Incluido)**
+```
+¿POR QUÉ?
+• No tienen logística propia robusta
+• Prefieren certeza en costos totales
+• Valoran la simplicidad operativa
+• Dispuestos a pagar $107/ton más por no preocuparse
+• Enfoque en su negocio, no en gestión de fletes
+
+NUESTRO VALOR AGREGADO:
+• Entrega garantizada en tiempo acordado
+• Seguro incluido contra daños o pérdidas
+• Un solo contacto para todo
+• Factura simple con todo incluido
+```
+
+
+---
+
+## CÓMO PRESENTARLO EN TU REUNIÓN COMERCIAL
+
+### **Slide de PowerPoint: "Opciones de Compra"**
+
+```
+DOS FORMAS DE TRABAJAR - TÚ DECIDES
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OPCIÓN 1: TÚ LO RECOGES (LAB San Luis Potosí)
+💰 Precio: $28,930/tonelada
+📦 Tú controlas: Transporte, timing, flete
+💵 Costo total estimado: ~$31,300/ton (con flete)
+✅ Ideal para: Empresas con logística propia
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OPCIÓN 2: NOSOTROS ENTREGAMOS (Puesto en tu almacén)
+💰 Precio: $31,441/tonelada TODO INCLUIDO
+📦 Nosotros manejamos: Flete, seguro, coordinación
+💵 Precio cerrado, sin sorpresas
+✅ Ideal para: Operación simple y sin complicaciones
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Diferencia: $141 pesos/ton por servicio completo
+¿Cuál se ajusta mejor a tu forma de operar?
+```
+
+### **Script de Presentación (Lenguaje Directo)**
+
+```
+"Mira, entendemos que cada empresa trabaja diferente, por eso 
+te ofrecemos dos opciones muy claras:
+
+OPCIÓN UNO - Tú lo recoges en San Luis:
+Te lo dejo listo en mi bodega a $28,930 pesos la tonelada. 
+Mandas tu camión, lo cargas y te lo llevas. Nosotros te 
+ayudamos con todo, pero el flete va por tu cuenta. 
+
+Si tú ya tienes transportista o contratas buenos fletes, 
+esta es tu mejor opción. Te puede salir el costo total en 
+unos $31,300 con todo y flete.
+
+OPCIÓN DOS - Nosotros te lo entregamos:
+Te lo pongo en tu almacén de Mérida a $31,441 pesos la 
+tonelada, TODO INCLUIDO. Yo contrato el camión, pago el 
+flete, el seguro, coordino todo. Tú nada más recibes y 
+descargas. Es un precio cerrado, sin variables.
+
+La diferencia son $141 pesos por tonelada. En 200 toneladas, 
+estamos hablando de $28,000 pesos de diferencia entre que 
+tú gestiones todo o que yo te lo deje en tu puerta.
+
+¿Tienes transportista de confianza o prefieres que nosotros 
+nos encarguemos de todo?"
+```
+
+
+---
+
+## FORMATO DE COTIZACIÓN FORMAL
+
+### **Cotización Comercial - Terminología Mexicana**
+
+```
+══════════════════════════════════════════════════════════════
+            COTIZACIÓN COMERCIAL No. 001-2025
+══════════════════════════════════════════════════════════════
+
+PRODUCTO: Frijol Negro San Luis Potosí Grado Primera
+CALIDAD: Certificado NMX-FF-038-SCFI-2016
+PRESENTACIÓN: Costales de polipropileno 50 kg
+
+──────────────────────────────────────────────────────────────
+MODALIDADES DE VENTA DISPONIBLES:
+──────────────────────────────────────────────────────────────
+
+1. LAB SAN LUIS POTOSÍ (Cliente recoge)
+   
+   Precio unitario: $28,930.00 MXN por tonelada
+   
+   Incluye:
+   • Producto empacado en costales de 50 kg
+   • Certificado de calidad y análisis de laboratorio
+   • Documentación completa (factura, guías)
+   • Coordinación de carga en nuestras instalaciones
+   
+   No incluye:
+   • Flete SLP → Destino (estimado $2,200-2,400/ton)
+   • Seguro de transporte (opcional)
+   • Maniobras de carga y descarga
+   
+   COSTO TOTAL ESTIMADO: $31,300 - $31,400 por tonelada
+
+──────────────────────────────────────────────────────────────
+
+2. PUESTO EN ALMACÉN CLIENTE - MÉRIDA, YUCATÁN
+   
+   Precio unitario: $31,441.00 MXN por tonelada
+   *** PRECIO TODO INCLUIDO ***
+   
+   Incluye:
+   • Producto empacado en costales de 50 kg
+   • Flete completo SLP → Mérida
+   • Seguro de mercancía en tránsito
+   • Certificado de calidad y documentación
+   • Coordinación de entrega en su almacén
+   
+   No incluye:
+   • Descarga en almacén del cliente (costo aprox. $100/ton)
+   
+   COSTO TOTAL ESTIMADO: $31,441 por tonelada
+
+──────────────────────────────────────────────────────────────
+CONDICIONES COMERCIALES:
+──────────────────────────────────────────────────────────────
+
+• Términos de pago: 30 días fecha de factura
+• Descuento: 2% por pago anticipado (< 15 días)
+• Pedido mínimo: 40 toneladas (1 camión completo)
+• Tiempo de entrega: 15-20 días hábiles
+• Vigencia de cotización: 90 días naturales
+
+DESCUENTOS POR VOLUMEN:
+• >200 toneladas: 2% descuento adicional
+• >500 toneladas: 3% descuento adicional
+
+──────────────────────────────────────────────────────────────
+NOTAS IMPORTANTES:
+──────────────────────────────────────────────────────────────
+
+* Precios expresados en Pesos Mexicanos (MXN)
+* No incluyen IVA (16%)
+* Sujeto a disponibilidad de producto
+* Para opción LAB: Cliente coordina transporte con 7 días
+  de anticipación mínima
+
+══════════════════════════════════════════════════════════════
+CONTACTO:
+Gabriel Negrete Cervantes
+Agronegocios El Tepetate SPR de RL
+Tel: +52 999 2005550
+Email: smunozam@gmail.com
+══════════════════════════════════════════════════════════════
 ```
 
 ---
 
-## DESGLOSE DE COSTOS POR INCOTERM
+## CLÁUSULAS PARA CONTRATOS (Lenguaje Legal Claro)
 
-### **OPCIÓN A: EXW San Luis Potosí**
+### **Cláusula para Modalidad LAB San Luis Potosí**
 
-| Concepto | Responsable | Costo Estimado | Quien Paga |
-|----------|-------------|----------------|------------|
-| **Producto base** | Vendedor | $28,930/ton | Incluido en precio |
-| **Embalaje** | Vendedor | Incluido | Incluido en precio |
-| **Documentación** | Vendedor | Incluido | Incluido en precio |
-| **Carga en origen** | Comprador | $50/ton | **COMPRADOR** |
-| **Transporte SLP-Destino** | Comprador | $2,167/ton | **COMPRADOR** |
-| **Seguros de carga** | Comprador | $87/ton | **COMPRADOR** |
-| **Descarga en destino** | Comprador | $100/ton | **COMPRADOR** |
-| **TOTAL PARA COMPRADOR** | - | **$31,334/ton** | - |
-
-### **OPCIÓN B: DDP Almacén Comprador**
-
-| Concepto | Responsable | Costo Estimado | Quien Paga |
-|----------|-------------|----------------|------------|
-| **Producto base** | Vendedor | $28,930/ton | Incluido en precio |
-| **Embalaje** | Vendedor | Incluido | Incluido en precio |
-| **Documentación** | Vendedor | Incluido | Incluido en precio |
-| **Carga en origen** | Vendedor | $50/ton | Incluido en precio |
-| **Transporte SLP-Destino** | Vendedor | $2,167/ton | Incluido en precio |
-| **Seguros de carga** | Vendedor | $87/ton | Incluido en precio |
-| **Descarga en destino** | Vendedor | $100/ton | Incluido en precio |
-| **Margen logístico** | Vendedor | $107/ton | Incluido en precio |
-| **PRECIO TOTAL DDP** | - | **$31,441/ton** | **PRECIO ÚNICO** |
-
----
-
-## VENTAJAS Y DESVENTAJAS POR INCOTERM
-
-### **EXW (Ex-Works) - $28,930/tonelada**
-
-#### **VENTAJAS PARA EL COMPRADOR:**
-- Precio más bajo aparente
-- Control total sobre logística
-- Pueden negociar mejores tarifas de transporte
-- Flexibilidad en tiempos de recogida
-- Posible uso de transportistas propios
-
-#### **DESVENTAJAS PARA EL COMPRADOR:**
-- Responsabilidad total del transporte
-- Riesgo de daños o pérdidas en tránsito
-- Necesidad de gestionar seguros
-- Coordinación logística compleja
-- Costos ocultos pueden ser mayores
-
-#### **VENTAJAS PARA EL VENDEDOR:**
-- Responsabilidad mínima
-- Sin riesgo logístico
-- Flujo de caja más rápido
-- Sin necesidad de gestión de transporte
-
-#### **DESVENTAJAS PARA EL VENDEDOR:**
-- Precio aparentemente menos competitivo
-- Cliente debe gestionar complejidad adicional
-- Menos control sobre experiencia del cliente
-
-### **DDP (Delivered Duty Paid) - $31,441/tonelada**
-
-#### **VENTAJAS PARA EL COMPRADOR:**
-- Precio todo incluido, sin sorpresas
-- Cero responsabilidad logística
-- Transferencia de riesgo al vendedor
-- Simplificación operativa total
-- Mejor planificación de costos
-
-#### **DESVENTAJAS PARA EL COMPRADOR:**
-- Precio total más alto
-- Menos control sobre logística
-- Dependencia del vendedor para entregas
-
-#### **VENTAJAS PARA EL VENDEDOR:**
-- Precio más competitivo (todo incluido)
-- Control total de la experiencia del cliente
-- Diferenciación vs competencia
-- Mayor margen potencial
-
-#### **DESVENTAJAS PARA EL VENDEDOR:**
-- Mayor responsabilidad y riesgo
-- Necesidad de gestión logística compleja
-- Inversión en seguros y garantías
-
----
-
-## RECOMENDACIÓN ESTRATÉGICA
-
-### **Para Clientes Tipo A (Mayoristas Grandes)**
-**RECOMENDAR: EXW + Soporte Logístico**
 ```
-JUSTIFICACIÓN:
-• Tienen capacidad de gestión logística propia
-• Pueden obtener mejores tarifas de transporte por volumen
-• Prefieren control total sobre timing de entregas
-• El ahorro de $511/ton es significativo en grandes volúmenes
+TERCERA - MODALIDAD DE ENTREGA Y RESPONSABILIDADES
 
-SOPORTE ADICIONAL:
-• Recomendación de transportistas confiables
-• Coordinación de horarios de carga
-• Seguimiento del embarque hasta destino
+La entrega de la mercancía se realizará en modalidad LAB (Libre a 
+Bordo) en las instalaciones del VENDEDOR ubicadas en [Dirección 
+completa, San Luis Potosí].
+
+EL VENDEDOR se obliga a:
+a) Poner la mercancía a disposición del COMPRADOR en la fecha convenida
+b) Empacar adecuadamente el producto en costales de 50 kilogramos
+c) Proporcionar toda la documentación: factura, certificados de 
+   calidad y análisis de laboratorio
+d) Coordinar horarios de carga con el transportista del COMPRADOR
+
+EL COMPRADOR se obliga a:
+a) Coordinar y contratar el transporte de la mercancía
+b) Realizar la carga de la mercancía en el vehículo contratado
+c) Pagar todos los costos de flete, seguros y maniobras
+d) Asumir la responsabilidad y riesgo de la mercancía desde que 
+   sale del almacén del VENDEDOR
+
+La transferencia de riesgos ocurre en el momento en que la mercancía 
+sale de las instalaciones del VENDEDOR.
 ```
 
-### **Para Clientes Tipo B (Mayoristas Medianos)**
-**RECOMENDAR: DDP Puerta a Puerta**
-```
-JUSTIFICACIÓN:
-• Menor capacidad de gestión logística
-• Prefieren certidumbre en costos totales
-• Valoran la simplificación operativa
-• Dispuestos a pagar premium por servicio completo
+### **Cláusula para Modalidad Puesto en Almacén**
 
-VALOR AGREGADO:
-• Entrega garantizada en tiempo
-• Seguro incluido contra daños
-• Gestión completa de documentación
+```
+TERCERA - MODALIDAD DE ENTREGA Y RESPONSABILIDADES
+
+La entrega de la mercancía se realizará en las instalaciones del 
+COMPRADOR ubicadas en [Dirección completa, Mérida, Yucatán], con 
+flete, seguro y coordinación incluidos en el precio.
+
+EL VENDEDOR se obliga a:
+a) Entregar la mercancía en el almacén del COMPRADOR
+b) Contratar y pagar el transporte completo SLP → Mérida
+c) Contratar seguro de mercancía durante el tránsito
+d) Coordinar la entrega en fecha y hora convenidas
+e) Asumir todos los riesgos hasta la entrega en destino
+f) Proporcionar documentación completa
+
+EL COMPRADOR se obliga a:
+a) Facilitar el acceso al almacén para descarga
+b) Realizar la descarga de la mercancía del vehículo
+c) Verificar cantidad y calidad al momento de recibir
+d) Firmar el acuse de recibo correspondiente
+
+La transferencia de riesgos ocurre cuando la mercancía es puesta 
+a disposición del COMPRADOR en su almacén, lista para descarga.
 ```
 
 ---
 
-## TEMPLATE DE PRESENTACIÓN COMERCIAL CORREGIDO
+## ANEXO TÉCNICO: EQUIVALENCIAS INCOTERMS 2020
 
-### **Slide: Opciones de Términos Comerciales**
+> **Para referencia legal y contratos internacionales:**
 
-```
-ADAPTAMOS NUESTROS TÉRMINOS A SUS NECESIDADES
+| Término Mexicano | INCOTERM 2020 | Código |
+|------------------|---------------|--------|
+| LAB San Luis Potosí | Ex Works | EXW |
+| Flete Pagado Mérida | Carriage Paid To | CPT |
+| Flete y Seguro Pagado | Carriage and Insurance Paid | CIP |
+| Puesto en Almacén | Delivered at Place | DAP |
+| Todo Incluido hasta Descarga | Delivered Duty Paid | DDP |
 
-OPCIÓN 1: EXW SAN LUIS POTOSÍ
-• Precio: $28,930/tonelada
-• Ustedes controlan: Transporte y seguros  
-• Costo total estimado: $31,334/tonelada
-• Ideal para: Mayoristas con logística propia
-
-OPCIÓN 2: DDP SU ALMACÉN
-• Precio: $31,441/tonelada (todo incluido)
-• Nosotros gestionamos: Entrega puerta a puerta
-• Sin costos adicionales ni sorpresas
-• Ideal para: Operación simplificada
-
-¿Cuál se adapta mejor a su operación?
-```
-
-### **Script de Presentación Actualizado**
-
-```
-"En términos de precios y logística, ofrecemos dos opciones claras 
-basadas en estándares internacionales INCOTERMS 2020:
-
-Si ustedes prefieren control total sobre la logística y tienen 
-capacidad de gestión de transporte, nuestra opción EXW a $28,930 
-por tonelada les da flexibilidad total. Ustedes se encargan del 
-flete y seguros, y el costo final sería aproximadamente $31,334 
-por tonelada.
-
-Si prefieren simplicidad total y un precio todo incluido sin 
-sorpresas, nuestra opción DDP a $31,441 por tonelada les entrega 
-el producto directamente en su almacén, sin preocupaciones 
-logísticas.
-
-La diferencia son apenas $107 por tonelada por el servicio completo 
-puerta a puerta. ¿Cuál opción se ajusta mejor a su forma de operar?"
-```
+**Nota:** Los INCOTERMS 2020 son estándares publicados por la Cámara de 
+Comercio Internacional (ICC) y proporcionan claridad legal en transacciones 
+comerciales. Para ventas domésticas en México, usar terminología local es 
+más claro, pero la referencia a INCOTERMS puede incluirse en contratos 
+formales para mayor precisión legal.
 
 ---
 
-## CLÁUSULAS CONTRACTUALES ESPECÍFICAS
-
-### **Para Contratos EXW:**
-
-```
-CLÁUSULA DE ENTREGA EXW:
-"El Vendedor cumple su obligación de entrega cuando pone la mercancía 
-a disposición del Comprador en el almacén del Vendedor ubicado en 
-[Dirección exacta, San Luis Potosí]. El Comprador asume todos los 
-costos y riesgos relacionados con el transporte de la mercancía 
-desde dicho punto hasta el destino final.
-
-TRANSFERENCIA DE RIESGO:
-Los riesgos se transfieren al Comprador en el momento en que la 
-mercancía es puesta a su disposición en el almacén del Vendedor, 
-independientemente de que haya sido cargada o no en el vehículo 
-del Comprador."
-```
-
-### **Para Contratos DDP:**
-
-```
-CLÁUSULA DE ENTREGA DDP:
-"El Vendedor entrega la mercancía cuando esta es puesta a disposición 
-del Comprador en el almacén del Comprador ubicado en Mérida, Yucatán, 
-lista para ser descargada. El Vendedor asume todos los costos y riesgos 
-hasta dicho punto, incluyendo transporte, seguros y cualquier gasto 
-relacionado con la entrega.
-
-TRANSFERENCIA DE RIESGO:
-Los riesgos se transfieren al Comprador únicamente cuando la mercancía 
-ha sido entregada en el lugar de destino acordado y está lista para 
-ser descargada."
-```
-
----
-
-**Este addendum clarifica completamente las responsabilidades según estándares internacionales INCOTERMS 2020, eliminando ambigüedades en los términos comerciales.**
+**Este documento proporciona claridad total en términos comerciales mexicanos prácticos, eliminando confusión y facilitando negociaciones directas con distribuidores nacionales.**

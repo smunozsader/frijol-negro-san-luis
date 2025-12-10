@@ -132,8 +132,8 @@ Email: [Email]
 - Oportunidad de liderazgo en segmento premium
 
 **Slide 7: Propuesta Comercial**
-- Precio EXW: $28.93/kg ($28,928/tonelada)
-- Precio DDP Mérida: $31.44/kg ($31,441/tonelada)
+- Precio LAB San Luis Potosí: $28.93/kg ($28,928/tonelada)
+- Precio Puesto en tu Almacén Mérida: $31.44/kg ($31,441/tonelada)
 - Volumen inicial: 100-200 toneladas
 - Términos de pago: 30 días
 - Entregas: Programadas según necesidad COMA
@@ -236,8 +236,8 @@ Email: [Email]
 ### 5.1 Términos Base a Negociar
 
 **Precio:**
-- EXW San Luis Potosí: $28,928/tonelada
-- DDP Mérida: $31,441/tonelada  
+- LAB San Luis Potosí (tú lo recoges): $28,928/tonelada
+- Puesto en tu Almacén Mérida (entrega incluida): $31,441/tonelada  
 - Descuentos por volumen: 2% por >200 ton, 3% por >500 ton
 - Cláusula de ajuste: Máximo 5% trimestral según mercado
 
@@ -252,7 +252,7 @@ Email: [Email]
 - Análisis por lote certificado por laboratorio acreditado
 
 **Logística:**
-- Entrega: EXW San Luis Potosí o DDP almacén COMA (según INCOTERMS 2020)
+- Entrega: LAB San Luis Potosí o Puesto en Almacén COMA (modalidad a elegir)
 - Empaque: Costales de polipropileno 50kg
 - Programación: Con 7 días de anticipación mínima
 
@@ -269,8 +269,8 @@ Email: [Email]
 - Descuentos por volumen adicionales
 
 **No puedo ceder:**
-- Precio EXW por debajo de $28,500/ton
-- Precio DDP por debajo de $31,000/ton
+- Precio LAB por debajo de $28,500/ton
+- Precio Puesto en Almacén por debajo de $31,000/ton
 - Calidad por debajo de Grado Primera
 - Entregas sin programación (bajo demanda)
 - Pagos a más de 45 días
@@ -370,9 +370,9 @@ PROVEEDOR: [Datos DARIO/Gabriel]
 AGENTE COMERCIAL: Sergio Muñoz de Alba Medrano
 
 CONDICIONES COMERCIALES:
-• Precio EXW: $28,928.00 MXN por tonelada
-• Precio DDP: $31,441.00 MXN por tonelada
-• Términos: EXW San Luis Potosí o DDP Mérida (INCOTERMS 2020)
+• Precio LAB San Luis Potosí: $28,928.00 MXN por tonelada
+• Precio Puesto en Almacén Mérida: $31,441.00 MXN por tonelada
+• Modalidades: Cliente recoge o Entrega incluida (a elegir)
 • Pago: 30 días fecha de factura
 • Descuento: 2% pago anticipado (15 días)
 

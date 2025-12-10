@@ -19,7 +19,7 @@
   - Calidad del grano (certificación NMX-FF-038)
   - Almacenamiento en origen (San Luis Potosí)
   - Procesamiento inicial (selección, limpieza, embalaje)
-- **Capital invertido:** ~$27.3 millones (precio EXW San Luis Potosí)
+- **Capital invertido:** ~$27.3 millones (precio LAB San Luis Potosí)
 - **Riesgos:** Calidad del producto, deterioro en almacenamiento
 
 #### **B) AGENTE COMISIONISTA (Sergio Muñoz de Alba)**
