@@ -39,17 +39,48 @@ The project emphasizes professional fact sheets that include:
 
 ## File Structure & Key Documents
 
-### Primary Documentation
-- `consulta grok frijol negro.md` - Main project consultation document with detailed market analysis and commercial processes
-- `NORMAS REFERENCIA/` - Contains official Mexican standards (NMX-FF-038-SCFI-2016 PDFs)
-- `frijol negro, consulta grok.gdoc` - Google Doc with additional consultation materials
+### Project Organization
+The project follows a clean, organized structure with clearly separated categories:
 
-### Reference Standards Location
-Mexican normative documents are stored in `NORMAS REFERENCIA/` and should be referenced for:
-- Quality classification criteria
-- Testing methodology specifications  
-- Commercial grade definitions
-- Regulatory compliance requirements
+#### Root Directory Files
+- `consulta grok frijol negro.md` - Main project consultation document with detailed market analysis and commercial processes
+- `CERTIFICADO_CALIDAD_FRIJOL_NEGRO_TEMPLATE.md` - Quality certificate template
+- `FORMATOS_CERTIFICADO_OPCIONES.md` - Certificate format options template
+- `.github/copilot-instructions.md` - AI assistant configuration and project context
+
+#### Organized Folders
+- **`PDF_VIGENTES/`** - Current, active documents with Mexican terminology (LAB/Puesto en Almacén)
+  - Contains both Markdown source files (.md) and final PDFs (.pdf)
+  - All documents use terminología mexicana práctica instead of INCOTERMS
+  - Includes: Protocolo Comercial, Plan Propuesta COMA, Estructura Comercial, Addendum, Análisis, etc.
+  
+- **`PDF_OBSOLETOS/`** - Archived versions with old INCOTERMS terminology and superseded documents
+  - Previous versions using EXW/DDP terminology
+  - LaTeX intermediate files (.tex)
+  - Older certificate versions
+  
+- **`HTML_FUENTES/`** - HTML source files for certificates and fact sheets
+  - CERTIFICADO_TECNICO_ONE_PAGER.html (latest version with Gabriel Negrete contact info)
+  - FACT_SHEET_FRIJOL_NEGRO.html
+  - CERTIFICADO_OFICIAL_MOCK.html
+  - FORMATOS_CERTIFICADO_OPCIONES.html
+  
+- **`NORMAS REFERENCIA/`** - Official Mexican standards and technical references
+  - NMX-FF-038-SCFI-2016 (frijol quality standards)
+  - Agricultural research papers
+  - Quality classification criteria, testing methodologies, commercial grade definitions
+  
+- **`SCRIPTS/`** - Automation scripts for PDF generation
+  - PowerShell scripts (.ps1) for LaTeX/PDF workflows
+  
+- **`fotos/`** - Product images for certificates and presentations
+
+### Document Access Patterns
+- **For editing**: Use Markdown files in `PDF_VIGENTES/`
+- **For reference**: Use PDFs in `PDF_VIGENTES/`
+- **For HTML editing**: Use files in `HTML_FUENTES/`
+- **For standards compliance**: Reference `NORMAS REFERENCIA/`
+- **Never use**: Files in `PDF_OBSOLETOS/` (archived only)
 
 ## Development Approach
 
